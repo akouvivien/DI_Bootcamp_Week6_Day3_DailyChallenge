@@ -50,7 +50,7 @@ public class App {
                 TermDeux = termSuivant;
                 System.out.print(TermUn + ", ");
                 i++;
-            } while (i <= nombre);
+            } while (TermDeux < nombre);
 
     
     
